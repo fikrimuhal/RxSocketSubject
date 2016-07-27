@@ -1,3 +1,7 @@
+- 1.0.0
+   - Fikrimuhal fork.
+   - Update rxjs and rx-dom dependencies
+   - Fix package.json entry point
 - 0.7.0
   - Update RxJS to 4.0.0
 - 0.6.4

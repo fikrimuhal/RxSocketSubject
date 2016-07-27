@@ -1,7 +1,7 @@
 {
-  "name": "rx-socket-subject",
-  "version": "0.7.0",
-  "description": "A more full-featured wrapper for web sockets using RxJS and RxJS-DOM",
+  "name": "fm-rxjs-websocket",
+  "version": "1.0.0",
+  "description": "A more full-featured wrapper for web sockets using RxJS and RxJS-DOM (Fikrimuhal fork)",
   "main": "dist/rx-socket-subject.js",
   "scripts": {
     "test": "testem ci -R dot",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/blesh/RxSocketSubject.git"
+    "url": "https://github.com/fikrimuhal/RxSocketSubject.git"
   },
   "keywords": [
     "RxJS",
     "WebSocket"
   ],
-  "author": "Ben Lesh <ben@benlesh.com>",
+  "contributors":[ "Ben Lesh <ben@benlesh.com>", "Ilgaz Şumnulu <ilgaz@fikrimuhal.com>"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blesh/RxSocketSubject/issues"
+    "url": "https://github.com/fikrimuhal/RxSocketSubject/issues"
   },
-  "homepage": "https://github.com/blesh/RxSocketSubject",
+  "homepage": "https://github.com/fikrimuhal/RxSocketSubject",
   "devDependencies": {
     "broccoli-closure-compiler": "^1.0.0",
     "broccoli-compile-modules": "^1.1.0",

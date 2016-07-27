@@ -1,5 +1,9 @@
 RxSocketSubject
 ===============
+## Fork Notice
+
+Original author blesh weren't maintaining the project (accepting pull requests and last commit was 10m old) so we have forked it.
+
 
 [![Build Status](https://travis-ci.org/blesh/RxSocketSubject.svg?branch=master)](https://travis-ci.org/blesh/RxSocketSubject)
 
